@@ -1,0 +1,25 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Contact</title>
+        <style>
+            body{
+              background-color:#001C30;
+              color:  #DAFFFB;
+              }
+          #h1{
+              color:greenyellow;
+              }
+            </style>
+    </head>
+    <body>
+        <h1 id="h1">
+            Contact
+        </h1>
+        <p>My Fictional Address</p>
+        <p>090-XXXX-XXX</p>
+        <p>645021000718@mail.rmutk.ac.th</p>
+        <hr/>
+    </body>
+</html>

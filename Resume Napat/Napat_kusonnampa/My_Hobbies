@@ -1,0 +1,28 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>My Hobbies</title>
+        <style>
+          body{
+            background-color:#001C30;
+            color:  #DAFFFB;
+            }
+        #h2{
+            color:greenyellow;
+            }
+          </style>
+    </head>
+    <body>
+        <h2 id="h2">
+            My Hobbies
+        </h2>
+        <ol>
+            <li>exercise</li>
+            <li>swim</li>
+            <li>travel</li>
+            <li>draw a picture</li> 
+            <li>sing</li>
+        </ol>
+    </body>
+</html>
